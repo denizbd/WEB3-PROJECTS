@@ -73,7 +73,7 @@ export default function Home() {
   return (
     <main>
       <header>
-        <h1>Potstop</h1>
+        <h1>Potstop by Deniz</h1>
 
         <form>
           <input type="text" placeholder="Search" />
