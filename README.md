@@ -1,7 +1,6 @@
 # WEB3-Projects
-Some web3 projects just for fun
-
-Learning Resource: SuperHi
+ some web3 projects just for fun
+ Learning Resource: SuperHi
 
 Project 1 is a simple page that shows my AI Art + you can tip me ETH via Metamask
 
