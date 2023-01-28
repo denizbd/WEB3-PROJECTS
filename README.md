@@ -9,4 +9,4 @@ Project 2 is a Pottery page. Users can connect with their wallet, leave comments
 
 Project 3 is a minting page. 100-copy limited edition with 20% of revenue going to charity. Tools used: Infura, Remix, Ganache.
 
-Project 4 is a NFT minting page. Tools used: Infura, Remix, IPFS, Pinata, Ganache Opensea.
+Project 4 is a NFT minting page. Tools used: Infura, Remix, IPFS, Pinata, Ganache, Oppenzeppelin, Opensea.
