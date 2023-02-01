@@ -60,8 +60,8 @@ module.exports = {
     goerli: {
       provider: () => new HDWalletProvider(mnemonic, `https://goerli.infura.io/v3/c550f6f3ab7e463e8ccef8ec5fd0c14b`),
       from: "0x14B85b1c40056312fde55E1Fa1827a92F12B966A",
-      network_id: 5,       // Ropsten's id
-      gas: 5500000,        // Ropsten has a lower block limit than mainnet
+      network_id: 5,       // Goerli's id
+      gas: 5500000,        
       confirmations: 2,    // # of confs to wait between deployments. (default: 0)
       timeoutBlocks: 200,  // # of blocks before a deployment times out  (minimum/default: 50)
       skipDryRun: true     // Skip dry run before migrations? (default: false for public nets )
