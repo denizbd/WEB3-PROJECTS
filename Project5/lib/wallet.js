@@ -6,7 +6,7 @@ import { useState, useEffect, createContext } from 'react'
 
 import WIP from './WIP.json'
 
-const contractAddress = "_____"
+const contractAddress = "0x9277B3A854C0f86A61747D6FED9CBa721e2F9b26"
 
 export const WalletContext = createContext()
 
